@@ -1,0 +1,1 @@
+Open solution file and run IIS Express. Application uses cloud database on Azure.
